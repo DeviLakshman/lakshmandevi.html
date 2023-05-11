@@ -52,16 +52,20 @@ p{
   display: inline ;
 }
 .rainbow{
-  height: 150px;
-  width: 150px;
+  height: 50px;
+  width: 50px;
 }
 .moon{
-  height:75px;
-  width: 75px;
+  height:50px;
+  width: 50px;
 }
 .sun{
 }
 .press{
   height: 50px;
   width: 50px;
+}
+.img {
+ width:50px;
+  height:50px;
 }
